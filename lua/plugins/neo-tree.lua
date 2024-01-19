@@ -8,5 +8,5 @@ return {
     },
     config = function()
         vim.keymap.set("n", "<leader>0", ":Neotree filesystem reveal left toggle<CR>")
-    end
+    end,
 }
